@@ -1,0 +1,14 @@
+#id {
+    text-align: center;
+}
+
+#btn {
+    display: flex;
+    flex: 1;
+    height: 39px;
+    font-size: 25px;
+    text-align: center;
+    align-content: center;
+    color: #FF0000;
+    background-color: #39C5BB;
+}
